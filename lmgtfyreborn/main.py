@@ -1,5 +1,5 @@
 # Copyright Diego Magdaleno 2020
-# License: WTFPL
+# License: MIT
 from typing import List
 
 
